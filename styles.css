@@ -8,7 +8,7 @@ body {
     grid-template-rows: auto;
     grid-template-areas:
         ". heading heading heading swirl swirl"
-        ". heading heading heading swirl swirl"
+        ". subHeading subHeading subHeading swirl swirl"
         "sleeveRoll sleeveRoll bioTitle . swirl swirl"
         "sleeveRoll sleeveRoll bio bio swirl swirl"
         "sleeveRoll sleeveRoll bio bio swirl swirl"
@@ -35,8 +35,12 @@ body {
     grid-area: swirl;
 }
 
-h1 h2 {
+h1 {
     grid-area: heading;
+}
+
+h2 {
+    grid-area: subHeading;
 }
 
 #sleeveRoll {
