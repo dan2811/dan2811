@@ -1,3 +1,6 @@
+[![Linkedin: DanielJordan](https://img.shields.io/badge/-DanJordan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danjordanfullstack/)](https://www.linkedin.com/in/danjordanfullstack/)
+
+
 ```javascript
 const Dan = {
   pronouns: "He" | "him",
@@ -21,5 +24,3 @@ const Dan = {
   ]
 }
 ```
-
-[![Linkedin: DanielJordan](https://img.shields.io/badge/-DanJordan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danjordanfullstack/)](https://www.linkedin.com/in/danjordanfullstack/)
