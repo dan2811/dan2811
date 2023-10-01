@@ -3,7 +3,7 @@
 
 ```javascript
 const Dan = {
-  tools: [AWS, REST APIs, GraphQL, tRPC, Node, React, NextJS, Jest, Cypress, Prisma],
+  tools: [AWS, REST APIs, GraphQL, tRPC, Node, React, NextJS, Tailwind, Jest, Cypress, Prisma],
   currentRole: "Full Stack Software Engineer @ Raytheon",
   interests: ["Music", "Drums", "Bourbon Biscuits", "Skiing"],
   pets: [
