@@ -3,8 +3,7 @@
 
 ```javascript
 const Dan = {
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, React Native, Node, Jest, Cypress, AWS, REST APIs, GraphQL, Web Sockets, Docker],
+  tools: [AWS, REST APIs, GraphQL, tRPC, Node, React, NextJS, Jest, Cypress, Prisma],
   currentRole: "Full Stack Software Engineer @ Raytheon",
   interests: ["Music", "Drums", "Bourbon Biscuits", "Skiing"],
   pets: [
