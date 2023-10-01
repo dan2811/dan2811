@@ -3,7 +3,6 @@
 
 ```javascript
 const Dan = {
-  pronouns: "He" | "him",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, React Native, Node, Jest, Cypress, AWS, REST APIs, GraphQL, Web Sockets, Docker],
   currentRole: "Full Stack Software Engineer @ Raytheon",
