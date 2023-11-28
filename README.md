@@ -4,7 +4,7 @@
 ```javascript
 const Dan = {
   tools: [AWS, REST APIs, GraphQL, tRPC, Node, React, NextJS, Tailwind, Jest, Cypress, Prisma],
-  currentRole: "Full Stack Software Engineer @ Raytheon",
+  currentRole: "Full Stack Software Engineer @ VQ",
   interests: ["Music", "Drums", "Bourbon Biscuits", "Skiing"],
   pets: [
     {
