@@ -1,5 +1,6 @@
 [![Linkedin: DanielJordan](https://img.shields.io/badge/-DanJordan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danjordanfullstack/)](https://www.linkedin.com/in/danjordanfullstack/)
 
+[My Website](https://www.daniel-jordan.co.uk/)
 
 ```javascript
 const Dan = {
